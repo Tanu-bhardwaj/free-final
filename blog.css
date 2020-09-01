@@ -1,0 +1,31 @@
+
+body{
+    background-image:url(https://venngage-wordpress.s3.amazonaws.com/uploads/2018/09/Colorful-Geometric-Simple-Background-Image.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+.text-success{
+    text-align: center;
+}
+body {
+  font-family: "Poppins", sans-serif;
+}
+
+
+
+
+
+.free{
+  margin-top: 2%;
+  margin-left: 10%;
+  margin-right: 10%;
+  margin-bottom: 2%;
+  overflow:scroll;
+  
+  height: 900px;
+
+
+}
+.free::-webkit-scrollbar{
+  display:none;
+}
